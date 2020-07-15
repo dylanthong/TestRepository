@@ -13,7 +13,7 @@ public class TestScript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        Console.WriteLine("An expert programmer wrote this line of code.")
+        Debug.Log("An expert programmer wrote this line of code.");
     }
-    // Changed Debug.Log to Console.WriteLine
+    // I added a semicolon
 }
