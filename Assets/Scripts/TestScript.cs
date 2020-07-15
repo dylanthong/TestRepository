@@ -15,4 +15,5 @@ public class TestScript : MonoBehaviour
     {
         Console.WriteLine("An expert programmer wrote this line of code.")
     }
+    // Changed Debug.Log to Console.WriteLine
 }
